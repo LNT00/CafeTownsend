@@ -1,6 +1,0 @@
-- download and install VisualStudioCode
-- download and install NodeJS
-- open visualstudiocode and run in the console: npm i -g npm
-- run in the console: npm install cypress --save-dev
-- run in the console: npm install --save-dev cypress-cucumber-preprocessor
-- in the projet folder run in the console: node_modules\.bin\cypress open
