@@ -1,5 +1,5 @@
 Given("I open the login page", () => {
-    cy.visit("http://cafetownsend-angular-rails.herokuapp.com/login");
+    cy.visit("http://thomasburleson.github.io/angularJS-CafeTownsend/#/login");
 });
 
 And("I am logged in as {word} user", (user) => {

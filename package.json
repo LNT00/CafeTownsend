@@ -3,10 +3,11 @@
     "step_definitions": "cypress/support/step_definitions"
   },
   "devDependencies": {
-    "cypress": "^4.0.1",
-    "cypress-cucumber-preprocessor": "^2.0.1"
+    "cypress": "^9.4.1",
+    "cypress-cucumber-preprocessor": "^2.5.5"
   },
   "dependencies": {
-    "npm": "^6.13.7"
+    "npm": "^7.8.0",
+    "save-dev": "0.0.1-security"
   }
 }

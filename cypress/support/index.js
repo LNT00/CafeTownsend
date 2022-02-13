@@ -5,5 +5,5 @@ Cypress.on("uncaught:exception", (err, runnable) => {
 });
 
 Cypress.Cookies.defaults({
-  whitelist: ["_CafeTownsend-Angular-Rails_session"]
+  preserve: ["_CafeTownsend-Angular-Rails_session"]
 });
