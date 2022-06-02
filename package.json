@@ -7,7 +7,7 @@
     "cypress-cucumber-preprocessor": "^2.5.5"
   },
   "dependencies": {
-    "npm": "^7.8.0",
+    "npm": "^8.11.0",
     "save-dev": "0.0.1-security"
   }
 }
